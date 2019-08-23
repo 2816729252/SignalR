@@ -1,0 +1,1 @@
+﻿F:\何园园\SignalR\signalr-vue-master\signalr-core-demo\signalR-Core\obj\Debug\netcoreapp2.2\signalR-Core.csprojAssemblyReference.cache
